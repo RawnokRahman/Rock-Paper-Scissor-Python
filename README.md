@@ -10,9 +10,11 @@
 
 ## How To Use  
 1. Clone This Repo Using This Command
+
 ```git clone https://github.com/RawnokRahman/Rock-Paper-Scissor-Python.git```
 
 2. Go To The Folder And Run This Command
+
 ```python3 main.py```
 
 3. Enjoy The Game !!
